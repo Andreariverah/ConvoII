@@ -1,0 +1,17 @@
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\bin\Debug\net8.0-windows\Sistema_Estudiatil_Uni.exe
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\bin\Debug\net8.0-windows\Sistema_Estudiatil_Uni.deps.json
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\bin\Debug\net8.0-windows\Sistema_Estudiatil_Uni.runtimeconfig.json
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\bin\Debug\net8.0-windows\Sistema_Estudiatil_Uni.dll
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\bin\Debug\net8.0-windows\Sistema_Estudiatil_Uni.pdb
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.Form1.resources
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.csproj.GenerateResource.cache
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.AssemblyInfo.cs
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.dll
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\refint\Sistema_Estudiatil_Uni.dll
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.pdb
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.genruntimeconfig.cache
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\ref\Sistema_Estudiatil_Uni.dll
+C:\Users\DELL 5590\source\repos\Sistema_Estudiatil_Uni\Sistema_Estudiatil_Uni\obj\Debug\net8.0-windows\Sistema_Estudiatil_Uni.AgregarEstudiante.resources
